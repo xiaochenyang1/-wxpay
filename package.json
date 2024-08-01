@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vant-green": "^1.0.44",
     "vue": "^3.4.31",
     "vue-router": "^4.4.1"
   },
